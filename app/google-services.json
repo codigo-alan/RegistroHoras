@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285423567205",
+    "project_id": "alanregistrohoras",
+    "storage_bucket": "alanregistrohoras.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285423567205:android:e6f770e4a612619ebe618c",
+        "android_client_info": {
+          "package_name": "com.example.registrohoras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285423567205-rora8o4uppud7b6mvvm2v7q899aidiqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpFfWn2-yd0YYOER19scTdJVPUe_Knrjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285423567205-rora8o4uppud7b6mvvm2v7q899aidiqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
